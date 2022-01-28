@@ -1,0 +1,9 @@
+<problem1>
+insert_min_heap/delete_min_heap/ increase_heap/ decrease_heap이 있는 코드입니다.
+메인 함수를 보면 min heap에 1~9의 값을 넣었고 그다음에 decrease_heap으로 element e10= 0을 넣어 줌으로써 0,2~9를 가진 트리가 되었습니다.
+increase_heap을 해보고 싶으시다면 element e10=10을 넣고 decrease_heap->increase_heap으로 변경하시면 됩니다.
+마지막으로는 모든 값을 delete함으로써 트리에 모든값이 잘 들어갔는지를 확인합니다.
+<promlem 2>
+priority queue 와 decrease key, min heap 을 이용 했습니다.
+distance array를 사용하는 대신에 main에서 add를 통해서 input을 
+나타냈습니다.
